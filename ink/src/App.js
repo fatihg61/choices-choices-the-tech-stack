@@ -1,8 +1,8 @@
-import Header from './components/Header.js';
-import Footer from './components/Footer.js';
+import Header from './pages/components/Header.js';
+import Footer from './pages/components/Footer.js';
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import About from './about.js'; // The new page component
+import About from './pages/about.js'; // The new page component
 
 // import './main.css';
 
