@@ -2,7 +2,9 @@ import React from 'react';
 
 function About() {
   return (
-    <h1>About</h1>
+    <section className="fatih-is-gek">
+      <h1>About</h1><p>Fatih is gek</p>
+    </section>
   );
 }
 
