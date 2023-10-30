@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="./About.js" element={<About />} />
+        <Route path="./about.js" element={<About />} />
       </Routes>
       {/* The rest of your app content goes here */}
       <div className="main-content">
